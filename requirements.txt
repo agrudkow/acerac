@@ -4,4 +4,8 @@ mujoco-py<2.2,>=2.1
 tensorflow~=2.7.0
 tensorflow-gpu~=2.7.0
 tensorflow-probability~=0.15.0
-    
+
+# Plots
+seaborn~=0.11.2
+jupyterlab~=3.2.8 
+pandas~=1.4.0
